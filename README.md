@@ -63,8 +63,8 @@ from the same starting ratings.
 Compile and run:
 
 ```bash  
-javac -d bin src/*.java  
-java -cp bin Runner  
+javac -d bin *.java
+java -cp bin Runner
 ```
 ## Future Work
 
