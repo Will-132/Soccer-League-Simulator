@@ -144,7 +144,7 @@ public class Team
 
     public void updateElo(double odds, double result)
     {
-        currentElo += 10.0 * (result - odds);
+        currentElo += 5.0 * (result - odds);
         if (currentElo < 0)
         {
             currentElo = 0;
