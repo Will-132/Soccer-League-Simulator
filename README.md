@@ -7,6 +7,8 @@ long-run fortunes: championship probability, playoff and relegation odds, averag
 goal difference, and goals scored/conceded. A head-to-head mode simulates a single matchup
 thousands of times for quick "what happens when these two meet?" questions.
 
+![Monte Carlo standings output for a sample 20-team league](screenshots/standings.png)
+
 ## Features
 
 - **Elo-based team ratings** — each team carries a 0–100 rating; win expectations are
