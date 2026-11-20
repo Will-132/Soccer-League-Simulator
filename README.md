@@ -7,7 +7,7 @@ long-run fortunes: championship probability, playoff and relegation odds, averag
 goal difference, and goals scored/conceded. A head-to-head mode simulates a single matchup
 thousands of times for quick "what happens when these two meet?" questions.
 
-![Monte Carlo standings output with a sample of Premier League teams](desktop/standings.png)
+![Monte Carlo standings output with a sample of Premier League teams](screenshots/standings.png)
 
 ## Features
 
