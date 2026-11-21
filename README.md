@@ -72,7 +72,7 @@ java -cp bin Runner
 
 - **Gap-sensitive draw probability** — real leagues see more draws between evenly matched
   teams and fewer in mismatches. Replace the implicit draw rate with a formula that narrows
-  as the rating gap widens , and condition
+  as the rating gap widens, and condition
   the Poisson goal draws on the decided outcome so scorelines always match the result.
 - **Home advantage** — award the home side a small Elo bonus (≈3 points) when computing win
   expectations and expected goals. With a home-and-away schedule every team hosts equally,
